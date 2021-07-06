@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url("images/beach.jpg") no-repeat top center;
+  background: url("images/mar.png") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -65,7 +65,7 @@ header {
 header {
   line-height: 1.5;
 }
-header .profile-image {
+header .me-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
@@ -73,7 +73,7 @@ header .profile-image {
   border: 3px solid red;
   transition: all 1s;
 }
-header .profile-image:hover {
+header .me-image:hover {
   transform: scale(1.2);
 }
 .tag {
